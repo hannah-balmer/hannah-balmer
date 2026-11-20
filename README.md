@@ -3,6 +3,9 @@
 <!--
 **hannah-balmer/hannah-balmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Things I could add: research interests, projects I've worked on, a link to my LinkedIn profile
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
